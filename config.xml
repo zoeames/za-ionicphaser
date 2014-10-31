@@ -7,7 +7,7 @@
   <author email="zoeames@gmail.com" href="http://www.zoeames.com/">
       Zoe Ames
     </author>
-  <content src="http://192.168.11.51:5500" original-src="index.html"/>
+  <content src="index.html"/>
   <access origin="*"/>
   <preference name="webviewbounce" value="false"/>
   <preference name="UIWebViewBounce" value="false"/>
